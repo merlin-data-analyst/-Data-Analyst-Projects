@@ -71,7 +71,7 @@ QSR businesses depend on fast service, available stock and efficient staff. This
 
 **Screenshots**
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](page 1.png)
 
 ---
 
