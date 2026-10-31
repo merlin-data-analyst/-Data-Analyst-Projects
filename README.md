@@ -71,7 +71,7 @@ QSR businesses depend on fast service, available stock and efficient staff. This
 
 **Screenshots**
 
-![Dashboard Overview](page 1.png)
+![Dashboard Overview][page 1.png]
 
 ---
 
@@ -92,7 +92,7 @@ QSR businesses depend on fast service, available stock and efficient staff. This
 
 1. Clone the repository
    ```
-   git clone [your-repo-link]
+   git clone(https://github.com/merlin-data-analyst/-Data-Analyst-Projects)
    ```
 2. Open the Python notebook in `notebooks/` to view the cleaning and analysis.
 3. Run the SQL scripts in `sql/` on a MySQL database.
